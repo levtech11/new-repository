@@ -1,1 +1,2 @@
-// const a = 10
+const myVar = process.env.HOST;
+console.log(myVar);
